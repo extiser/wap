@@ -1,0 +1,105 @@
+// Common styles of the project
+
+html, body {
+    height: 100%;
+}
+
+.box {
+	width: 940px;
+	margin: auto;
+	position: relative;
+	background: #2a3657;
+	border-radius: 20px;
+	border: 2px solid #dfe1e6;
+	box-shadow: 0 3px 7px #000;
+	text-align: center;
+	font-family: Arial;
+	padding-top: 30px;
+
+	&:before {
+		content: "";
+		position: absolute;
+		width: 946px;
+		height: 64px;
+		background: url(../images/general/box-top.png) no-repeat;
+		top: 0;
+		left: -3px;
+		right: 0;
+		margin: auto;
+	}
+
+	&__title {
+		font-size: 40px;
+		color: #fff;
+	}
+
+	.box-content {
+		width: 575px;
+		min-height: 185px;
+		margin: 30px auto 20px;
+		&__image {
+			width: 178px;
+			min-height: 185px;
+			display: inline-block;
+			background: #eff0f2 url(../images/general/box-image.png) no-repeat center center;
+			border-radius: 10px 0 0 10px;
+		}
+		&__list {
+			width: 352px;
+			display: inline-block;
+			vertical-align: top;
+			background: #fff;
+			margin: 0 0 0 -5px;
+			padding: 0;
+			padding-left: 44px;
+			padding-top: 20px;
+			padding-bottom: 16px;
+			text-align: left;
+			border-radius: 0 10px 10px 0;
+			&__title, &__item {
+				display: inline-block;
+				vertical-align: middle;
+				font-size: 16px;
+				color: #333;
+				margin-bottom: 10px;
+			}
+			&__title {
+				width: 95px;
+				margin-right: 30px;
+			}
+			&__item {
+				width: 147px;
+				margin-right: 75px;
+				font-weight: 700;
+
+				.rating {
+					height: 19px;
+					background: url(../images/general/rating.png) no-repeat;
+					text-align: right;
+					font-size: 11px;
+					color: #999999;
+					line-height: 19px;
+				}
+			}
+		}
+	}
+
+	&__download {
+		display: block;
+		margin: auto;
+		width: 424px;
+		height: 83px;
+		line-height: 83px;
+		font-size: 32px;
+		color: #fff;
+		text-decoration: none;
+		background: url(../images/general/download.png) no-repeat;
+	}
+
+	&__social {
+		width: 314px;
+		height: 20px;
+		background: url(../images/general/social.png) no-repeat;
+		margin: 25px auto 40px;
+	}
+}

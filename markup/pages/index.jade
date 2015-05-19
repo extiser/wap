@@ -1,0 +1,29 @@
+doctype html
+
+include ../modules/head/head
+
+head
+	+head(head.defaults)
+body
+	.box
+		.box__title Название_файла.zip
+		.box-content
+			.box-content__image
+			ul.box-content__list
+				li.box-content__list__title Скачали
+				li.box-content__list__item 17784 раз
+
+				li.box-content__list__title Добавленно
+				li.box-content__list__item 09/05/2015 10:25
+
+				li.box-content__list__title Размер
+				li.box-content__list__item 35 Mb
+
+				li.box-content__list__title Автор
+				li.box-content__list__item Admin
+
+				li.box-content__list__title Рейтинг
+				li.box-content__list__item
+					.rating (4587)
+		a(href="#" title="").box__download Скачать
+		.box__social

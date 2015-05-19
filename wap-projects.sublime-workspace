@@ -1,0 +1,1383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"box",
+				"box__social__item"
+			],
+			[
+				"bo",
+				"box-content"
+			],
+			[
+				"class",
+				"classModal"
+			],
+			[
+				"mask",
+				"maskItem"
+			],
+			[
+				"sli",
+				"slideDown	.slideDown()"
+			],
+			[
+				"reviews-sli",
+				"reviews-slider"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"text",
+				"textGray"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"to",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"user",
+				"userSet"
+			],
+			[
+				"val",
+				"value	AngularJS"
+			],
+			[
+				"top",
+				"topOfWindow"
+			],
+			[
+				"sc",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"map",
+				"mapcode"
+			],
+			[
+				"cla",
+				"classM"
+			],
+			[
+				"th",
+				"this	$(this)"
+			],
+			[
+				"use",
+				"userText"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"se",
+				"send-form"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"form",
+				"form__element"
+			],
+			[
+				"for",
+				"form__element"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"revie",
+				"reviewsUser"
+			],
+			[
+				"rev",
+				"reviewsList"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"tari",
+				"tarif__item"
+			],
+			[
+				"border-bt",
+				"border-bottom-color"
+			],
+			[
+				"ta",
+				"tarif"
+			],
+			[
+				"tar",
+				"tarifController"
+			],
+			[
+				"slide",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"togg",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"works",
+				"works"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"ha",
+				"hasClass	.hasClass()"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"po",
+				"portfolio__works"
+			],
+			[
+				"pro",
+				"portfolio"
+			],
+			[
+				"ho",
+				"howwework"
+			],
+			[
+				"howF",
+				"howFourth"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"how",
+				"howwework__item"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pr",
+				"programs"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"info",
+				"info__item"
+			],
+			[
+				"ino",
+				"info__item"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"slider",
+				"sliderController"
+			],
+			[
+				"sr",
+				"src"
+			],
+			[
+				"site",
+				"siteParam"
+			],
+			[
+				"header",
+				"headerController"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"text-tr",
+				"text-transform"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"so",
+				"social-group__item"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"data",
+				"data-item"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"marign",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"margn",
+				"margin"
+			],
+			[
+				"child",
+				"childNodes"
+			],
+			[
+				"thu",
+				"thumbElements"
+			],
+			[
+				"get",
+				"getMonth"
+			],
+			[
+				"cou",
+				"countWeeks"
+			],
+			[
+				"coun",
+				"countWeeks"
+			],
+			[
+				"cale",
+				"calendar"
+			],
+			[
+				"lsa",
+				"lastDayOfWeek"
+			],
+			[
+				"coy",
+				"countFreeDaysF"
+			],
+			[
+				"count",
+				"countFreeDaysB"
+			],
+			[
+				"new",
+				"newDate"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"lst",
+				"lastDayOfWeek"
+			],
+			[
+				"countFr",
+				"countFreeDaysBegin"
+			],
+			[
+				"date",
+				"dates"
+			],
+			[
+				"cur",
+				"curMonth"
+			],
+			[
+				"month",
+				"monthBlock"
+			],
+			[
+				"mont",
+				"monthNmb"
+			],
+			[
+				"wee",
+				"weekBlock_in"
+			],
+			[
+				"next",
+				"nextYear"
+			],
+			[
+				"mon",
+				"monthLeft"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"last",
+				"lastDayOfWeek"
+			],
+			[
+				"las",
+				"lastDayOfWeek"
+			],
+			[
+				"fir",
+				"firstDayofWeek"
+			],
+			[
+				"mo",
+				"monthNmb"
+			],
+			[
+				"monthN",
+				"monthNmb"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"monthBlock_c",
+				"monthBlock_c"
+			],
+			[
+				"cre",
+				"createEl"
+			],
+			[
+				"montt",
+				"monthBlockWeekNmb_Create"
+			],
+			[
+				"id",
+				"idCalendar"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"term",
+				"terms"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"ca",
+				"categories_list"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"type",
+				"typeOn"
+			],
+			[
+				"ge",
+				"getAttribute"
+			],
+			[
+				"rad",
+				"radioBtnId"
+			],
+			[
+				"Ra",
+				"radioBtnId"
+			],
+			[
+				"par",
+				"parseFloat"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"err",
+				"errTel"
+			],
+			[
+				"fom",
+				"form__element"
+			],
+			[
+				"lis",
+				"list-contacts-send-msg"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "markup/pages/index.jade",
+			"settings":
+			{
+				"buffer_size": 947,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "markup/static/scss/common.scss",
+			"settings":
+			{
+				"buffer_size": 355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "markup/modules/head/head.jade",
+			"settings":
+			{
+				"buffer_size": 357,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "Package Control: instal",
+		"selected_items":
+		[
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"new",
+				"Tasks: New"
+			],
+			[
+				":",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 526.0,
+		"history":
+		[
+			"cd e:/git/svadbavo-2015/",
+			"update",
+			"export LC_NUMERIC=C",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"view.settings().get('syntax')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Git/wap/markup",
+		"/E/Git/wap/markup/modules",
+		"/E/Git/wap/markup/modules/head",
+		"/E/Git/wap/markup/pages",
+		"/E/Git/wap/markup/static",
+		"/E/Git/wap/markup/static/scss"
+	],
+	"file_history":
+	[
+		"/E/Git/wap/tars-config.js",
+		"/E/Git/prana-group-landing/markup/modules/programs/controller/programsController.js",
+		"/E/Git/prana-group-landing/markup/modules/programs/programs.jade",
+		"/E/Git/prana-group-landing/markup/modules/portfolio/controller/portfolioController.js",
+		"/E/Git/prana-group-landing/markup/modules/portfolio/portfolio.jade",
+		"/E/Git/prana-group-landing/markup/static/misc/siteParam/portfolio.json",
+		"/E/Git/prana-group-landing/markup/modules/slider/slider.jade",
+		"/E/Git/prana-group-landing/markup/modules/programs/programs.scss",
+		"/E/Git/prana-group-landing/markup/modules/reviews/controller/reviewsController.js",
+		"/E/Git/prana-group-landing/markup/static/misc/siteParam/programs.json",
+		"/E/Git/prana-group-landing/markup/modules/reviews/reviews.jade",
+		"/E/Git/prana-group-landing/markup/static/misc/siteParam/reviews.json",
+		"/E/Git/prana-group-landing/markup/modules/reviews/reviews.js",
+		"/E/Git/prana-group-landing/markup/modules/reviews/reviews.scss",
+		"/E/Git/prana-group-landing/markup/modules/head/head.jade",
+		"/E/Git/prana-group-landing/markup/modules/footer/footer.jade",
+		"/E/Git/prana-group-landing/markup/modules/tarif/tarif.jade",
+		"/E/Git/prana-group-landing/markup/modules/form/controller/sendController.js",
+		"/E/Git/prana-group-landing/builds/build_ver-Sat_Apr_18_2015_03-05-31/static/js/main32jrzr529.js",
+		"/E/Git/prana-group-landing/builds/build_ver-Sat_Apr_18_2015_03-05-31/static/js/main32jrzr529.min.js",
+		"/E/Git/prana-group-landing/markup/modules/tarif/tarif.scss",
+		"/E/Git/prana-group-landing/markup/modules/programs/programs.js",
+		"/E/Git/prana-group-landing/markup/modules/header/header.scss",
+		"/C/Users/Руслан/Desktop/ModalWindowEffects/ModalWindowEffects/css/component.css",
+		"/E/Git/prana-group-landing/markup/modules/footer/footer.scss",
+		"/E/Git/prana-group-landing/markup/modules/form/form.jade",
+		"/E/Git/prana-group-landing/markup/modules/tarif/controller/tarifController.js",
+		"/E/Git/prana-group-landing/markup/static/misc/sendMail.php",
+		"/E/Git/prana-group-landing/markup/modules/tarif/tarif.js",
+		"/E/Git/prana-group-landing/markup/modules/portfolio/portfolio.scss",
+		"/E/Git/prana-group-landing/markup/modules/info/info.scss",
+		"/E/Git/prana-group-landing/markup/modules/howwework/controller/howweworkController.js",
+		"/E/Git/prana-group-landing/markup/modules/howwework/howwework.scss",
+		"/C/WebServers/home/web.sushi.loc/www/files/animate.js",
+		"/E/Git/prana-group-landing/markup/modules/header/controller/headerController.js",
+		"/E/Git/prana-group-landing/markup/modules/header/header.js",
+		"/E/Git/prana-group-landing/markup/modules/header/header.jade",
+		"/C/WebServers/home/web.sushi.loc/www/js/site.js",
+		"/E/Git/prana-group-landing/markup/modules/slider/slider.scss",
+		"/E/Git/prana-group-landing/markup/modules/map/map.scss",
+		"/E/Git/prana-group-landing/markup/modules/map/map.jade",
+		"/E/Git/prana-group-landing/markup/modules/map/controller/mapController.js",
+		"/E/Git/prana-group-landing/dev/static/js/main.js",
+		"/E/Git/prana-group-landing/markup/static/misc/siteParam/header.json",
+		"/E/Git/prana-group-landing/markup/modules/map/map.js",
+		"/E/Git/prana-group-landing/markup/pages/index.jade",
+		"/E/Git/prana-group-landing/markup/static/js/libraries/include.js",
+		"/E/Git/prana-group-landing/markup/modules/form/form.scss",
+		"/E/Git/prana-group-landing/markup/modules/form/formSend.js",
+		"/C/WebServers/tmp/!sendmail/2015-04-17_16-04-13.eml",
+		"/C/WebServers/home/web.sushi.loc/www/dynamic/mail.php",
+		"/E/Git/prana-group-landing/markup/modules/form/form.js",
+		"/E/Git/prana-group-landing/markup/static/misc/siteParam/form.json",
+		"/E/Git/prana-group-landing/markup/modules/form/controller/formController.js",
+		"/C/WebServers/home/web.sushi.loc/www/index.php",
+		"/E/Git/prana-group-landing/markup/modules/slider/slider.js",
+		"/E/Git/prana-group-landing/markup/static/scss/fonts.scss",
+		"/E/Git/prana-group-landing/markup/modules/portfolio/portfolio.js",
+		"/E/Git/prana-group-landing/markup/modules/howwework/howwework.jade",
+		"/E/Git/prana-group-landing/markup/static/misc/siteParam/howWeWork.json",
+		"/E/Git/prana-group-landing/markup/static/scss/GUI.scss",
+		"/E/Git/prana-group-landing/markup/modules/howwework/howwework.js",
+		"/E/Git/prana-group-landing/markup/static/scss/normalize.scss",
+		"/E/Git/prana-group-landing/markup/static/scss/vars.scss",
+		"/E/Git/prana-group-landing/.csscomb.json",
+		"/E/Git/prana-group-landing/markup/modules/info/info.jade",
+		"/E/Git/prana-group-landing/markup/modules/info/controller/infoController.js",
+		"/E/Git/prana-group-landing/dev/static/css/main.css",
+		"/E/Git/prana-group-landing/markup/static/scss/sprites-scss/sprite_96.scss",
+		"/E/Git/prana-group-landing/markup/static/scss/sprites-scss/svg-sprite.scss",
+		"/E/Git/prana-group-landing/markup/static/scss/sprites-scss/sprite-ie.scss",
+		"/E/Git/prana-group-landing/markup/modules/info/info.js",
+		"/E/Git/prana-group-landing/markup/pages/info.js",
+		"/E/Git/prana-group-landing/markup/static/misc/siteParam/info.json",
+		"/E/Git/prana-group-landing/markup/modules/slider/controller/sliderController.js",
+		"/E/Git/svadbavo-2015/dev/js/slider.js",
+		"/E/Git/prana-group-landing/dev/siteParam/header.json",
+		"/E/Git/prana-group-landing/markup/static/misc/siteParam/slider.json",
+		"/E/Git/prana-group-landing/dev/siteParam/slider.json",
+		"/E/Git/svadbavo-2015/dev/sass/blocks/_slider.scss",
+		"/E/Git/prana-group-landing/markup/modules/slider/slide.js",
+		"/C/Users/Руслан/Desktop/header.js",
+		"/C/Users/Руслан/Desktop/headerController.js",
+		"/E/Git/prana-group-landing/markup/static/js/libraries/siteController.js",
+		"/E/Git/prana-group-landing/markup/modules/slider/controller/slideController.js",
+		"/E/Git/prana-group-landing/markup/static/js/libraries/siteModule.js",
+		"/E/Git/prana-group-landing/markup/static/misc/siteParam.json",
+		"/C/Users/Руслан/Desktop/123",
+		"/E/Git/prana-group-landing/dev/siteParam.json",
+		"/E/Git/prana-group-landing/markup/static/js/separate-js/siteParam.json",
+		"/E/Git/prana-group-landing/markup/static/scss/mixins.scss",
+		"/E/Git/prana-group-landing/markup/static/scss/sprite-generator-templates/scss.sprite.mustache",
+		"/E/Git/prana-group-landing/markup/static/scss/sprite-generator-templates/scss.svg-fallback-sprite.mustache",
+		"/E/Git/prana-group-landing/markup/static/scss/sprite-generator-templates/scss.svg-sprite.mustache",
+		"/E/Git/prana-group-landing/tars/tasks/js/processing.js",
+		"/E/Git/prana-group-landing/tars/user-tasks/example-task.js",
+		"/E/Git/prana-group-landing/dev/temp/modulesData.js",
+		"/E/Git/prana-group-landing/gulpfile.js",
+		"/E/Git/prana-group-landing/tars-config.js",
+		"/E/Git/prana-group-landing/package.json",
+		"/E/Git/prana-group-landing/user-package.json",
+		"/E/Git/prana-group-landing/tars/watchers/templates/page-modules.js",
+		"/E/Git/prana-group-landing/markup/modules/head/data/data.js",
+		"/E/Git/prana-group-landing/markup/modules/_template/data/data.js",
+		"/E/Git/prana-group-landing/markup/modules/_template/_template.js",
+		"/E/Git/prana-group-landing/markup/modules/_template/_template.scss",
+		"/E/Git/prana-group-landing/markup/modules/_template/_template.jade",
+		"/E/Git/svadbavo-2015/dev/template/partials/footer.jade",
+		"/E/Git/svadbavo-2015/dev/sass/partials/_footer.scss",
+		"/E/Git/svadbavo-2015/dev/sass/blocks/_cabinet-photo-add-folder.scss",
+		"/E/Git/shtukaturkapro/gulpfile.js",
+		"/E/Git/svadbavo-2015/dev/sass/partials/_modals.scss",
+		"/E/Git/svadbavo-2015/dev/template/blocks/cabinet-video.jade",
+		"/E/Git/svadbavo-2015/dev/template/partials/modals.jade",
+		"/E/Git/svadbavo-2015/dev/template/blocks/wedding-magazine.jade",
+		"/E/Git/acccentre/production/main.html",
+		"/C/Users/Руслан/Desktop/bests.css",
+		"/C/Users/Руслан/Desktop/mobile.css",
+		"/C/Dropbox/Sites/sovets_woman/sass/screen.scss",
+		"/C/Dropbox/Sites/sovets_woman/stylesheets/screen.css",
+		"/E/Git/svadbavo-2015/dev/template/main.jade",
+		"/E/Git/svadbavo-2015/dev/sass/blocks/_catalog-firms-list.scss",
+		"/E/Git/svadbavo-2015/dev/sass/blocks/_catalog-firms-inside-categories.scss",
+		"/E/Git/svadbavo-2015/dev/sass/blocks/_article-meta.scss",
+		"/E/Git/svadbavo-2015/dev/sass/blocks/_article-text.scss",
+		"/E/Git/svadbavo-2015/dev/sass/blocks/_filter.scss",
+		"/E/Git/svadbavo-2015/dev/sass/blocks/_list-article.scss",
+		"/E/Git/svadbavo-2015/dev/sass/partials/_pagination.scss"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"8",
+			"send",
+			"$blue",
+			"-webkit-margin-before: 1em;",
+			"HelveticaNeueCyrBold",
+			"../static/images/",
+			"&--individualcreate",
+			"&--momentglory",
+			"&--threecolors",
+			"&--theone",
+			"&--bigdisplay",
+			"../images/",
+			".art-menu",
+			".art-menu ul li",
+			"parent",
+			"paren",
+			"content-row-l",
+			"content-row-f",
+			"content-row2",
+			"content-row1",
+			".art-menu a",
+			"\"",
+			"$",
+			"slides",
+			"'",
+			"brow",
+			"localhost",
+			"art-postheader",
+			"jquery",
+			"migrate",
+			"jquery",
+			".show_me_the_map",
+			"jquery",
+			"uslugi3",
+			"top-orange",
+			"sidebar",
+			"margin-top: -37px;",
+			"sidebar-left",
+			".left-sidebar",
+			"art-sheet-body",
+			".subcategory",
+			"art-postheader",
+			".contact-info-footer a",
+			".art-footer .art-nav a",
+			".art-menu .art-menu-li-separator",
+			".art-menu a .t, .art-menu ul a, .art-menu a, .art-menu a:link, .art-menu a:visited, .art-menu a:hover",
+			"../images",
+			"inner-entry",
+			"portfolio-sort-container",
+			"art",
+			"font-size: 18px;",
+			"@media",
+			".logo",
+			"юдщпщ",
+			".header",
+			"header",
+			"h1",
+			"title",
+			"post",
+			"eight",
+			"thumbElements",
+			"split",
+			"figure",
+			"gallerySelector",
+			"wrapper",
+			"append",
+			"Наши партнёры: ",
+			"full-catalog",
+			"loop",
+			"products",
+			"bread",
+			"Велоакс",
+			"Вело",
+			"add_submenu_page",
+			"Классы",
+			"as_store_optoins_subpage_product_classes",
+			"Велоаксессуары",
+			"Велосипеды",
+			"Велоаксессуары",
+			"menu",
+			"bcn",
+			"<h1>",
+			"paid",
+			"-webkit-appearance: textfield;",
+			".form__element",
+			".form",
+			"form",
+			"acccentre.ru",
+			"acccentre.iqdemo.ru",
+			"strong",
+			"footer",
+			"firm-card-tabs-photo-album",
+			"http://aversprof.ru/katalog/uniforma-i-speczodezhda/poshiv-rabochego-kostyuma.html",
+			"$password",
+			"slides_container",
+			"sliderBlock",
+			".slide",
+			".slides",
+			"iq.acccentre.loc",
+			"short",
+			"iq.acccentre.loc",
+			"#",
+			".title",
+			"temp/",
+			"childcontent",
+			".first",
+			"first",
+			"haschild",
+			"yadro",
+			"watch",
+			"arrows.png",
+			"loader",
+			"css",
+			"images/",
+			".content",
+			".sidebar",
+			"content",
+			"/images/",
+			"toolsFont.png",
+			"images/",
+			"logo",
+			"logo?14.1",
+			"jpg",
+			"aud.jpg",
+			"aud",
+			"logo",
+			"-webfont",
+			"col"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#70cfea",
+			"angular",
+			"SegoeUILight",
+			"../images/",
+			"&--individualCreate",
+			"&--momentGlory",
+			"&--threeColors",
+			"&--theOne",
+			"&--bigDisplay",
+			"../static/images/",
+			"contentRowL",
+			"contentRowF",
+			"content-row-l",
+			"content-row-f",
+			"'",
+			"jQuery",
+			"slider",
+			"\"",
+			"uslugi",
+			"/images",
+			"CalendarByWeek",
+			"www.acccentre.ru",
+			"acccentre.ru",
+			"firm-card-tabs-video-album",
+			"acccentre.iqdemo.ru",
+			"javascript:void(0)",
+			".slide__content__title",
+			"",
+			"/images/",
+			"water",
+			"cr_stone_kg",
+			"cr_stone_m",
+			"sand_m",
+			"sand_kg",
+			"sand_m",
+			"cement",
+			"bags",
+			"plaster_kg",
+			"bags",
+			"plaster_kg",
+			"",
+			"option",
+			"",
+			".pagination__item",
+			"order-by",
+			"/images/",
+			"../images/sprite.png",
+			"/images",
+			"/",
+			"/images",
+			"/images/",
+			"",
+			"../images",
+			"",
+			"b-why-you-need",
+			"b-in-photo",
+			"b-why",
+			"03dbaf",
+			"01a987",
+			"03bd97",
+			"<button type=\"button\" class=\"btn btn-success save_redact\">Сохранить</button>\n					            	<button type=\"button\" class=\"btn btn-default cancel_redact\">Отменить</button>",
+			"<button type=\"button\" class=\"btn btn-success save_redact\">Сохранить</button>\n<button type=\"button\" class=\"btn btn-default cancel_redact\">Отменить</button>",
+			"col-xs",
+			"",
+			"class=\"save_redact\"",
+			"class=\"redacting\"",
+			"rows=\"5\"",
+			"parking",
+			"option",
+			"",
+			"</p>",
+			"<p>",
+			".footer",
+			"",
+			"table-finance-counters",
+			"btn",
+			"table__row table__row--tbody table-stat__row--tbody",
+			"table__row--cell table-stat__row--cell",
+			"table__row--cell",
+			" cell",
+			"images/",
+			"font/",
+			"/font/",
+			"/images/",
+			"images/",
+			"font/",
+			" {",
+			"/font/",
+			"/images/",
+			"images",
+			"font",
+			"url(PIE.htc);",
+			"/images/",
+			"/font/",
+			"images",
+			"font",
+			"",
+			"/images/",
+			"/font/",
+			"сервиса"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "markup/pages/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								946,
+								946
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "markup/static/scss/common.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "markup/modules/head/head.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wap-projects.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
