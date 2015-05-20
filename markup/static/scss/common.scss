@@ -2,60 +2,44 @@
 
 html, body {
     height: 100%;
+    background: #2a3657;
 }
 
 .box {
-	width: 940px;
+	width: 575px;
 	margin: auto;
+	padding-top: 20px;
 	position: relative;
-	background: #2a3657;
-	border-radius: 20px;
-	border: 2px solid #dfe1e6;
-	box-shadow: 0 3px 7px #000;
-	text-align: center;
-	font-family: Arial;
-	padding-top: 30px;
-
-	&:before {
-		content: "";
-		position: absolute;
-		width: 946px;
-		height: 64px;
-		background: url(../images/general/box-top.png) no-repeat;
-		top: 0;
-		left: -3px;
-		right: 0;
-		margin: auto;
-	}
 
 	&__title {
-		font-size: 40px;
-		color: #fff;
+		width: 574px;
+		font-size: 30px;
+		color: #000;
+		background: #fff;
+		border-radius: 10px 10px 0 0;
+		text-align: center;
+		padding: 17px 0;
 	}
 
 	.box-content {
 		width: 575px;
 		min-height: 185px;
-		margin: 30px auto 20px;
+		margin: 0 auto 20px;
 		&__image {
 			width: 178px;
 			min-height: 185px;
 			display: inline-block;
 			background: #eff0f2 url(../images/general/box-image.png) no-repeat center center;
-			border-radius: 10px 0 0 10px;
+			border-radius: 0 0 0 10px;
 		}
 		&__list {
 			width: 352px;
 			display: inline-block;
 			vertical-align: top;
-			background: #fff;
-			margin: 0 0 0 -5px;
-			padding: 0;
-			padding-left: 44px;
-			padding-top: 20px;
-			padding-bottom: 16px;
-			text-align: left;
-			border-radius: 0 10px 10px 0;
+			background: #eff0f2;
+			margin: 0 0 0 -4px;
+			padding: 20px 0 16px 44px;
+			border-radius: 0 0 10px 0;
 			&__title, &__item {
 				display: inline-block;
 				vertical-align: middle;
@@ -87,19 +71,28 @@ html, body {
 	&__download {
 		display: block;
 		margin: auto;
-		width: 424px;
-		height: 83px;
-		line-height: 83px;
+		width: 575px;
+		height: 80px;
+		line-height: 75px;
 		font-size: 32px;
 		color: #fff;
 		text-decoration: none;
-		background: url(../images/general/download.png) no-repeat;
+		background: url(../images/general/download.png) repeat-x center center;
+		border-radius: 15px;
+		text-align: center;
 	}
 
 	&__social {
 		width: 314px;
 		height: 20px;
 		background: url(../images/general/social.png) no-repeat;
-		margin: 25px auto 40px;
+		margin: 25px auto 80px;
+	}
+
+	&__text {
+		text-align: center;
+		color: #abbec9;
+		font-size: 12px;
+		line-height: 16px;
 	}
 }
