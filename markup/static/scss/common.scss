@@ -69,6 +69,9 @@ html, body {
 				font-size: 16px;
 				color: #333;
 				margin-bottom: 10px;
+				@media screen and (max-width: 480px) {
+					font-size: 14px;
+				}
 			}
 			&__title {
 				width: 95px;
@@ -125,5 +128,9 @@ html, body {
 		color: #abbec9;
 		font-size: 12px;
 		line-height: 16px;
+		@media screen and (max-width: 480px) {
+			font-size: 10px;
+			line-height: 14px;
+		}
 	}
 }
