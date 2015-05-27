@@ -13,6 +13,7 @@ html, body {
 
 	@media screen and (max-width: 480px) {
 		width: 98%;
+		padding-top: 5px;
 	}
 
 	&__title {
@@ -27,6 +28,7 @@ html, body {
 		@media screen and (max-width: 480px) {
 			width: 100%;
 			font-size: 20px;
+			padding: 8px 0;
 		}
 	}
 
@@ -36,6 +38,7 @@ html, body {
 		margin: 0 auto 20px;
 		@media screen and (max-width: 480px) {
 			width: 100%;
+			margin-bottom: 5px;
 		}
 		&__image {
 			width: 178px;
@@ -62,6 +65,7 @@ html, body {
 				box-sizing: border-box;
 				padding-left: 20px;
 				border-radius: 0 0 10px 10px;
+				padding-top: 10px;
 			}
 			&__title, &__item {
 				display: inline-block;
@@ -71,6 +75,7 @@ html, body {
 				margin-bottom: 10px;
 				@media screen and (max-width: 480px) {
 					font-size: 14px;
+					margin-bottom: 5px;
 				}
 			}
 			&__title {
