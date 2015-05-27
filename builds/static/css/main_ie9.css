@@ -347,7 +347,8 @@ html, body {
     padding: 17px 0; }
     @media screen and (max-width: 480px) {
       .box__title {
-        width: 100%; } }
+        width: 100%;
+        font-size: 20px; } }
   .box .box-content {
     width: 575px;
     min-height: 185px;
