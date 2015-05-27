@@ -39,6 +39,7 @@ html, body {
 		@media screen and (max-width: 480px) {
 			width: 100%;
 			margin-bottom: 5px;
+			min-height: auto;
 		}
 		&__image {
 			width: 178px;

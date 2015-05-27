@@ -358,7 +358,8 @@ html, body {
     @media screen and (max-width: 480px) {
       .box .box-content {
         width: 100%;
-        margin-bottom: 5px; } }
+        margin-bottom: 5px;
+        min-height: auto; } }
     .box .box-content__image {
       width: 178px;
       min-height: 185px;
