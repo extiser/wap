@@ -11,6 +11,10 @@ html, body {
 	padding-top: 20px;
 	position: relative;
 
+	@media screen and (max-width: 480px) {
+		width: 98%;
+	}
+
 	&__title {
 		width: 574px;
 		font-size: 30px;
@@ -19,18 +23,28 @@ html, body {
 		border-radius: 10px 10px 0 0;
 		text-align: center;
 		padding: 17px 0;
+
+		@media screen and (max-width: 480px) {
+			width: 100%;
+		}
 	}
 
 	.box-content {
 		width: 575px;
 		min-height: 185px;
 		margin: 0 auto 20px;
+		@media screen and (max-width: 480px) {
+			width: 100%;
+		}
 		&__image {
 			width: 178px;
 			min-height: 185px;
 			display: inline-block;
 			background: #eff0f2 url(../images/general/box-image.png) no-repeat center center;
 			border-radius: 0 0 0 10px;
+			@media screen and (max-width: 480px) {
+				display: none;
+			}
 		}
 		&__list {
 			width: 352px;
@@ -40,6 +54,14 @@ html, body {
 			margin: 0 0 0 -4px;
 			padding: 20px 0 16px 44px;
 			border-radius: 0 0 10px 0;
+			@media screen and (max-width: 480px) {
+				width: 100%;
+				display: block;
+				margin: 0;
+				box-sizing: border-box;
+				padding-left: 20px;
+				border-radius: 0 0 10px 10px;
+			}
 			&__title, &__item {
 				display: inline-block;
 				vertical-align: middle;
@@ -55,6 +77,10 @@ html, body {
 				width: 147px;
 				margin-right: 75px;
 				font-weight: 700;
+
+				@media screen and (max-width: 480px) {
+					margin-right: 0;
+				}
 
 				.rating {
 					height: 19px;
@@ -80,6 +106,10 @@ html, body {
 		background: url(../images/general/download.png) repeat-x center center;
 		border-radius: 15px;
 		text-align: center;
+
+		@media screen and (max-width: 480px) {
+			width: 100%;
+		}
 	}
 
 	&__social {
