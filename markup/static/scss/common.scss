@@ -68,6 +68,10 @@ html, body {
 				border-radius: 0 0 10px 10px;
 				padding-top: 10px;
 			}
+			&__row {
+				display: block;
+				list-style: none;
+			}
 			&__title, &__item {
 				display: inline-block;
 				vertical-align: middle;
@@ -88,7 +92,6 @@ html, body {
 			}
 			&__item {
 				width: 147px;
-				margin-right: 75px;
 				font-weight: 700;
 
 				@media screen and (max-width: 480px) {

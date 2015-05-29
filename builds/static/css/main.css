@@ -386,6 +386,9 @@ html, body {
           padding-left: 20px;
           border-radius: 0 0 10px 10px;
           padding-top: 10px; } }
+      .box .box-content__list__row {
+        display: block;
+        list-style: none; }
       .box .box-content__list__title, .box .box-content__list__item {
         display: inline-block;
         vertical-align: middle;
@@ -404,7 +407,6 @@ html, body {
             margin-right: 10px; } }
       .box .box-content__list__item {
         width: 147px;
-        margin-right: 75px;
         font-weight: 700; }
         @media screen and (max-width: 480px) {
           .box .box-content__list__item {
